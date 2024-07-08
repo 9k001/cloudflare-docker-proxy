@@ -19,7 +19,7 @@ routes = [
   { pattern = "k8s-gcr.283143116.xyz", custom_domain = true },
   { pattern = "k8s.283143116.xyz", custom_domain = true },
   { pattern = "ghcr.283143116.xyz", custom_domain = true },
-  { pattern = "cloudsmith.lixd.xyz", custom_domain = true },
+  { pattern = "cloudsmith.283143116.xyz", custom_domain = true },
 ]
 
 [env.production.vars]
